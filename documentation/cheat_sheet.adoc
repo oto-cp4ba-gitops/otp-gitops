@@ -1,0 +1,35 @@
+# Title
+
+
+## Header 1 
+
+
+### Header 2
+
+This is a paragraph of normal text. 
+
+*This is bold text* 
+
+_This is italic text_
+
+[TIP]
+You can make blocks like this 
+
+https://localhost3000[This is how links look]
+
+
+[source, bash]
+```
+# This is an example code section
+./sh run_script.sh
+```
+*List example:*
+
+- List item 1
+- List item 2 
+    *  Sublist item
+
+*Other list examples:*
+
+* [ ] a task list item
+* [x] a *completed* task list item
