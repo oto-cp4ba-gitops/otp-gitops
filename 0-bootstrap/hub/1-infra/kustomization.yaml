@@ -80,6 +80,9 @@ resources:
  #- argocd/namespaces/namespace-istio-system.yaml
  #- argocd/namespaces/namespace-ibm-cp4mcm.yaml
 
+# Postdeploy Markdown info in ConfigMap
+ - argocd/rbac/postdeploy-output-info/rbac-postdeploy-output-info.yaml
+
  # Quay Registry
  - argocd/namespaces/namespace-quay-registry.yaml
  
